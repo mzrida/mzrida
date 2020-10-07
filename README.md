@@ -3,6 +3,7 @@ I am a PhD Student in Operations Research at North Carolina State University. My
 
 I am creating this github to post ML/AI/DL projects I have been working on during the last few years
 I will also include Few projects in C and C++ 
+
 🌱 I’m currently learning how to apply Machine learning to other portfolio optimization problems as well as other fields such as speech recognition.
 
 I will be graduating with my PhD degree in May, 2021 and I am looking for full time opportunities in Data science, Machine leaning, Financial Math...
