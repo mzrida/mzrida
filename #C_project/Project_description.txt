@@ -1,0 +1,24 @@
+Introduction
+The purpose of this first project is to learn several language features of the American National Standards Institute (ANSI) C used for reading in information from stdin (standard input file, usually connected to the keyboard), manipulating pointers and accessing array elements. The project essentially deals with implementing a 2-dimensional character array that stores strings row-wise, and then doing some operations on that array.
+
+
+  
+
+
+We intend to hold n character strings S1, ..., Sn in an array like that, such that the first character of S1, is in A[0][0], and so on. Thus we want character j of string Si to be in A[i-1][j-1].
+
+Note that a static layout of the array forces us to include not more than MAXROW strings, and each of them can not be of more than MAXCOL-1 length (since ANSI C strings are NULL-terminated).
+
+To begin with we want to be able to perform the following operations on an array of this type:
+
+
+Reading strings into the array.
+Writing out the array.
+Transposing the array.
+
+
+After we have done that, we would like to modify the behavior of the system a bit, and add the following two capabilities:
+
+
+Copying the strings from the array into an one-dimensional vector of pointers to strings, using dynamic allocation.
+Writing out the strings in the one-dimensional vector.
