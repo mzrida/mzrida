@@ -1,12 +1,12 @@
 ### Hi there 👋
-I am a PhD Student in Operations Research at North Carolina State University. My research focuses on solving Financial Math Problems using stochastic programming and Deep learning techniques. During my journey at NC state, I have developed a strong background in Linear/Non-linear/Stochastic optimization as well as in Machine learning.
+I am a PhD Student in Operations Research at North Carolina State University. My research focuses on solving Financial Math Problems using Reinforcement Learning and Deep learning techniques. During my journey at NC state, I have developed a strong background in Linear/Non-linear/Stochastic optimization as well as a strong familiarity with Machine learning algorithms.
 
 I am creating this github to post ML/AI/DL projects I have been working on during the last few years
 I will also include Few projects in C and C++ 
 
 🌱 I’m currently learning how to apply Machine learning to other portfolio optimization problems as well as other fields such as speech recognition.
 
-I will be graduating with my PhD degree in May, 2021 and I am looking for full time opportunities in Data science, Machine leaning, Financial Math...
+I will be graduating with my PhD in May, 2021 and I am looking for full time opportunities in Data science, Machine leaning, Financial Math...
 
 
 📫 How to reach me: mzrida91@gmail.com
